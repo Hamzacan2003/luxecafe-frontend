@@ -1,3 +1,20 @@
+# LuxeCafe — Cafe Order & Management System (Frontend)
+
+LuxeCafe, kafe ve restoran işletmelerinin günlük sipariş ve masa yönetim süreçlerini uçtan uca dijitalleştirmek amacıyla geliştirilmiş modern ve responsive bir web arayüzüdür.
+
+## Öne Çıkan Özellikler
+- Dinamik Masa Takibi: Restoran içindeki masaların doluluk, boşluk ve rezerve durumlarının anlık olarak izlenmesi.
+- Hızlı Sipariş ve Adisyon Yönetimi: Masalara sipariş ekleme, adisyon bölme, hesap kapatma ve anlık tutar hesaplama.
+- Dijital Menü ve Kategori Yönetimi: Yiyecek ve içeceklerin kategorilere göre filtrelenmesi ve hızlı ürün arama.
+- Personel ve Yönetici Dostu Arayüz: Tablet, POS cihazları ve masaüstü ekranlara tam uyumlu modern kullanıcı deneyimi.
+
+## Teknolojiler
+- React / Next.js
+- TypeScript
+- Tailwind CSS
+- REST API Entegrasyonu
+- Vercel (Canlı Dağıtım)
+- 
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
